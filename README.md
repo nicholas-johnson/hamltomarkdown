@@ -1,8 +1,8 @@
-# hamltomarkdown
+# haml to Markdown Converter
 
-Haml to Markdown converter command line script
+Command line script to convert Haml to Markdown
 
-# Usage
+## Usage
 
 Drop the script anywhere the shell can see it. The current directry will do.
 
@@ -17,3 +17,13 @@ A new file will be created at:
 ```
 path/to/file.md
 ```
+
+* Headings and paragraphs are converted.
+* Links are converted
+* Lists are converted
+
+* Divs and other elements are left as is, since they might need manual intervention
+
+## How to contribute
+
+Fork and issue a PR please.
