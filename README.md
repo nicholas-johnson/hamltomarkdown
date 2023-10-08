@@ -4,7 +4,7 @@ Command line script to convert Haml to Markdown
 
 ## Usage
 
-Drop the script anywhere the shell can see it. The current directry will do.
+Drop the script anywhere the shell can see it. The current directory will do.
 
 Execute:
 
